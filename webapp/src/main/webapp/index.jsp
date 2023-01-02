@@ -1,5 +1,4 @@
 	<!doctype html>
-
 	<head>
 
 		<title>www.blogsite.com</title>
