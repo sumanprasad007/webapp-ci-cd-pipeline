@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Arjuna's Netflix India - Watch TV Shows Online, Watch Movies Online</title>
+    <title>Suman0's Netflix - Watch TV Shows Online, Watch Movies Online</title>
 </head>
 <body>
 
