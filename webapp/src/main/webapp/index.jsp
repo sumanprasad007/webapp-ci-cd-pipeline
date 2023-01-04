@@ -45,7 +45,7 @@
 		<section id="home" class="page-section">
 			<div class="banner-container">
 				<div class="container banner-content">
-					<h1>Let's Learn<br /><span>with Blog Site</span></h1>
+					<h1>Let's Learn<br /><span>DevOps Pielines</span></h1>
 					<p style="color: white;" class="lead">Welcome to our Blog Site
 						'Simplicity is the soul of effeciency" ~ Austin Freeman</p>
 
